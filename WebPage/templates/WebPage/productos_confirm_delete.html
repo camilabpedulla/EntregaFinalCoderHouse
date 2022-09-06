@@ -1,0 +1,15 @@
+{% extends 'WebPage/base.html' %}
+
+{% block encabezado %}
+Borrar Producto
+{% endblock encabezado %}
+{% block productos %}
+  
+    <form  method="POST" > {% csrf_token %}
+       
+        <p> Desea borrar el producto? {{ object }}</p>
+        <input type="submit" value="Confirmar">
+        <a href="{% url 'inicio'  %}">Volver</a>
+    </form>
+
+{% endblock productos %}
