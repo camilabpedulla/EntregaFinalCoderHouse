@@ -43,3 +43,4 @@ https://docs.google.com/document/d/1V-peiQur3BmYyDqB4pSWkc0gVemZ-tsFz05B_5XJ3nA/
 
 
 Video demostrativo:
+https://www.loom.com/share/5d1bdf3fb5bc4d92a78b13442a2a5d22
